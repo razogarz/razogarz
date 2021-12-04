@@ -12,3 +12,5 @@
 * <patryknapek@gmail.com>
 
 [Github Page](https://razogarz.github.io)
+
+[Fork](https://github.com/razogarz/Mask2Former.git)
