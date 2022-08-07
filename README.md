@@ -1,7 +1,7 @@
 # Hello!
 
 #### My name is Patryk. I'm a polish IT student at [AGH](https://www.agh.edu.pl).
-#### I enjoy programming, studying foreign languages, spending time with my friends and playing games, such as League of Legends.
+#### I enjoy programming, studying foreign languages, spending time with my friends and playing games.
 
 #### Here are some of my projects:
 * A webpage for [Twój Styl Żywiec](https://twojstylzywiec.pl), Salon Piękności using plain html, css and jquery
