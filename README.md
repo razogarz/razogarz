@@ -11,5 +11,4 @@
 * [Facebook](https://www.facebook.com/patryk.knapek.1)
 * <patryknapek@gmail.com>
 
-[Github Page](https://razogarz.github.io)
 
