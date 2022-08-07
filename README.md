@@ -7,7 +7,7 @@
 
 #### ALWAYS up for a challenge!
 
-#### Here are some of my projects:
+#### Here are some of my greater, finished projects:
 * A webpage for [Twój Styl Żywiec](https://twojstylzywiec.pl) Beauty Salon using plain html, css and jquery
 
 
