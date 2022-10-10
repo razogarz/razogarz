@@ -1,8 +1,9 @@
 # Hello!
 
 #### My name is Patryk. I'm a polish IT student at [AGH](https://www.agh.edu.pl).
-#### I enjoy programming, both professionally and as a hobby, studying foreign languages such as English and Swedish, hanging out with my friends and playing games.
-#### I have some experience in web design using HTML, CSS, JS, PHP and frameworks (Tailwind).
+#### I enjoy programming, both professionally and as a hobby, studying foreign languages such as English and Swedish, hanging out with friends and playing games.
+#### I have some experience in web design using HTML, CSS, JS, PHP and frameworks (such as Tailwind and Bootstrap).
+#### I am a member of a mobile gamedev academic circle Code Industry (CoIn).
 #### I've also coded quite a lot using C++, C, C# and Python.
 
 #### ALWAYS up for a challenge!
