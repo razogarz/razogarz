@@ -5,7 +5,7 @@
 <h2> 💻 <code> C O D I N G </code> 🖥️</h2>
 <h4> My programing languages of choice are: </h4>
 <ul>
-  <li> <b>Typescript</b> <i>(for frontend)</i> </li>
+  <li> <b>Typescript/Javascript</b> <i>(for frontend)</i> </li>
   <li> <b>C#</b> <i>(backend & Unity projects)</i> </li>
   <li> <b>Python </b> <i>(mostly for academic subjects and Django)</i></li>
 </ul>
