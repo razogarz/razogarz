@@ -18,7 +18,14 @@
 </ul>
 <h4> And many more </h4>
 
-<h2> 🎮 <code> H O B B I E S </code>🌲 </h2>
+<h2> Also, here are some of my projects </h2>
+
+|||
+| - | - |
+| ✂️ Salon Fryzjerski "Twój Styl" | Static page for beauty saloon (personal project, Astro+React+Tailwind) |
+| 🚢 Shipstorm  | Online websocket-based old game of ships (group project, React+Tailwind+Django) |
+
+<h2> 🎮 <code> H O B B I E S </code> 🌲 </h2>
 <h4> In my spare time I enjoy </h4>
 <ul>
   <li> playing games 🎮 </li>
@@ -26,3 +33,5 @@
   <li> studying foreign languages 🇬🇧 🇳🇴 🇩🇪 </li>
   <li> making great coffee ☕ </li>  
 </ul>
+
+
