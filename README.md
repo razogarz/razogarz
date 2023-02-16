@@ -22,8 +22,10 @@
 
 |||
 | - | - |
-| ✂️ Salon Fryzjerski "Twój Styl" | Static page for beauty saloon (personal project, Astro+React+Tailwind) |
 | 🚢 Shipstorm  | Online websocket-based old game of ships (group project, React+Tailwind+Django) |
+| ✂️ Salon Fryzjerski "Twój Styl" | Static page for beauty saloon (personal project, Astro+React+Tailwind) |
+|  Stowarzyszenie Ajentów i Franczyzobiorców  | Static webpage (group project, Html+Css+Django) |
+
 
 <h2> 🎮 <code> H O B B I E S </code> 🌲 </h2>
 <h4> In my spare time I enjoy </h4>
