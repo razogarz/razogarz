@@ -15,6 +15,7 @@
   <li> <b>React</b> <i>(React >>> Angular)</i> </li>
   <li><b>Tailwind</b> <i>(so far the best CSS framework I've used)</i> </li>
   <li> <b>Astro</b> <i>(quite convenient to set up and use I would say)</i> </li>
+  <li> <b>Postgresql</b> <i>(worked on it on my academic database course)</i> </li>
 </ul>
 <h4> And many more </h4>
 
