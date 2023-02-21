@@ -1,6 +1,7 @@
 <h1> Hello World 🌎 </h1> 
 <h2> About Me: </h2>
 <p>My name is Patryk and I'm a CS student at AGH University of Science and Technology.</p>
+<img src="ghastTravel.png" alt="epic photo of me" style="width:75%">
 
 <h2> 💻 <code> C O D I N G </code> 🖥️</h2>
 <h4> My programing languages of choice are: </h4>
