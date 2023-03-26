@@ -38,4 +38,8 @@
 </ul>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razogarz&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razogarz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 <img src="ghastTravel.png" alt="epic photo of me" style="width:75%">
