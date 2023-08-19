@@ -1,36 +1,23 @@
-<h2>Hi! My name is Patryk, glad to meet you :)</h2>
-
+<h2>Hi! My name is Patryk, nice to meet you :)</h2>
 <img src="ghastTravel.png" alt="epic photo of me" style="width:75%">
 
 <h4> Fav programming languages </h4>
-<ul>
-  <li> <b>Typescript/Javascript</b> <i>(for frontend)</i> </li>
-  <li> <b>C#</b> <i>(backend & Unity projects for the CoIn)</i> </li>
-  <li> <b>Python </b> <i>(mostly for academic classes)</i></li>
-</ul>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h4> Fav technologies: </h4>
 <div>
   
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  [JointJS](https://www.jointjs.com)
 </div>
-<h5> Frontend: </h5>
-<ul>
-  <li> <b>React</b></li>
-  <li><b>Tailwind</b> <i>(so far the best CSS framework I've used)</i> </li>
-  <li> <b>Vite</b></li>
-  <li> <b>Postgresql</b> <i>(worked on it on my academic database course)</i> </li>
-  <li>Joint</li>
-</ul>
-<h5> Backend: </h5>
-<ul>
-  <li> <b> Django </b> </li>
-  <li> <b> ASP.NET </b> </li>
-</ul>
-<h5> Databases: </h5>
-<ul>
-  <li> <b>Postgresql</b> <i>(worked on it on my academic database course)</i> </li>
-  <li> <b>MongoDB</b>
-</ul>
 
 <h2>Currently working on: <code>Anticipatory Networks editor</code></h2>
 
