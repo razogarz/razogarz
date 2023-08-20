@@ -16,10 +16,12 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  [JointJS](https://www.jointjs.com)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  
 </div>
 
-<h2>Currently working on: <code>Anticipatory Networks editor</code></h2>
+[...aaand a cool JS diagramming library: JointJS](https://www.jointjs.com) 
+<h2>Currently working on: <code>Anticipatory Networks editor (private) </code></h2>
 
 <h2> Here are some of my past projects: </h2>
 
