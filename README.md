@@ -30,6 +30,9 @@
 | [🚢 Shipstorm](https://github.com/Stateczki/statki-online)  | Online websocket-based old game of ships (group project, React+Tailwind+Django) |
 | [✂️ Salon Fryzjerski "Twój Styl"](https://github.com/razogarz/SalonRevamp) | Static page for beauty saloon (personal project, Astro+React+Tailwind) |
 |  [Stowarzyszenie Ajentów i Franczyzobiorców](https://github.com/jeisenberger/Razem-Strona)  | Static webpage (group project, Html+Css+Django) |
+
+<h4> ... the rest is probably either private, too small or unfinished  :^) </h4>
+
 <!--
 <h2> Stats for interested: </h2>
 
