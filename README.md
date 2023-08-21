@@ -30,12 +30,13 @@
 | [🚢 Shipstorm](https://github.com/Stateczki/statki-online)  | Online websocket-based old game of ships (group project, React+Tailwind+Django) |
 | [✂️ Salon Fryzjerski "Twój Styl"](https://github.com/razogarz/SalonRevamp) | Static page for beauty saloon (personal project, Astro+React+Tailwind) |
 |  [Stowarzyszenie Ajentów i Franczyzobiorców](https://github.com/jeisenberger/Razem-Strona)  | Static webpage (group project, Html+Css+Django) |
-
+<!--
 <h2> Stats for interested: </h2>
 
 <div style="display:flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razogarz&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razogarz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razogarz&hide_progress=true_PAT1=)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
+-->
