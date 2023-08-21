@@ -21,7 +21,7 @@
 </div>
 
 [...aaand a cool JS diagramming library: JointJS](https://www.jointjs.com) 
-<h2>Currently working on: <code>Anticipatory Networks editor (private) </code></h2>
+<h2>Currently working on: <code>Anticipatory Networks editor (private)</code></h2>
 
 <h2> Here are some of my past projects: </h2>
 
