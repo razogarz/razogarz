@@ -33,13 +33,9 @@
 
 <h4> ... the rest is probably either private, too small or unfinished  :^) </h4>
 
-<!--
-<h2> Stats for interested: </h2>
 
-<div style="display:flex">
-  
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razogarz&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razogarz&hide_progress=true_PAT1=)](https://github.com/anuraghazra/github-readme-stats)  
 
-</div>
--->
+
