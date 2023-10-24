@@ -1,6 +1,4 @@
 <h2>Hi! My name is Patryk, nice to meet you :)</h2>
-<img src="ghastTravel.png" alt="epic photo of me" style="width:75%">
-
 <h4> Fav programming languages </h4>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
